@@ -32,6 +32,7 @@ In addition to the platforms mentioned earlier, there are different channels thr
 •Power BI Service
 
 ## Final Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiZjNhMDQyOTUtZjEwYi00ODdkLTgzNWItOTJkOWRiZmYxYTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 ![Screenshot 2023-05-23 180043](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/425871c5-41e5-4afb-87c3-aee2cabec001)
