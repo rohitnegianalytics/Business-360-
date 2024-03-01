@@ -34,18 +34,21 @@ In addition to the platforms mentioned earlier, there are different channels thr
 ## Final Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZjNhMDQyOTUtZjEwYi00ODdkLTgzNWItOTJkOWRiZmYxYTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+<img width="602" alt="page 1" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/e323f9bc-e0c2-47bf-88f9-e0145ef7305d">
+<img width="566" alt="Finance Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/07e0d51f-f276-4fe0-ba17-15db6f61e434">
+<img width="538" alt="Sales Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/9cea69ee-a6d4-40d2-aa8b-0de90cb03851">
+<img width="497" alt="Marketing Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/20a3ffc5-583b-4985-9a1f-51585a84d211">
+<img width="565" alt="Screenshot 2024-02-16 192310" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/114e3e7a-5ab4-4945-8122-e0234ffa07df">
+<img width="588" alt="Executive Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/057680eb-7718-41fc-8c8e-f495d0658e74">
 
-![Screenshot 2023-05-23 180043](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/425871c5-41e5-4afb-87c3-aee2cabec001)
 
-![Screenshot 2023-05-23 180145](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/36518528-dd27-4207-9332-cf162fb82fd5)
+![<img width="432" alt="Data model" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/5c383098-7687-4b3d-82ea-0c41c045d044">
 
-![Screenshot 2023-05-23 180222](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/1b9fb20b-dfde-4768-a803-5efd5859a937)
 
-![Screenshot 2023-05-23 180251](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/bab8a1e2-7734-4032-8a66-b2d2b02a967e)
 
-![Screenshot 2023-05-23 180312](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/76df1224-0f7c-4f09-9bc3-8cb751a6c818)
 
-![Screenshot 2023-05-23 180407](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/7bade6c2-435c-486e-86b2-9fee96ef40fb)
+
+
 
 
 
