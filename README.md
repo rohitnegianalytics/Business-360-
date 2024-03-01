@@ -48,6 +48,8 @@ https://app.powerbi.com/view?r=eyJrIjoiZjNhMDQyOTUtZjEwYi00ODdkLTgzNWItOTJkOWRiZ
 
 ![<img width="432" alt="Data model" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/5c383098-7687-4b3d-82ea-0c41c045d044">
 
+![Screenshot 2023-05-23 180043](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/425871c5-41e5-4afb-87c3-aee2cabec001)
+
 
 
 
