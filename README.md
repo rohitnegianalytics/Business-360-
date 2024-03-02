@@ -1,3 +1,6 @@
+# Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiZjNhMDQyOTUtZjEwYi00ODdkLTgzNWItOTJkOWRiZmYxYTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 # Business Insights 360
 
 This project focuses on Data Analytics within the consumer and goods domain, aiming to provide valuable insights to the company's management. By leveraging data-driven approaches, the project aims to empower the management in making informed decisions to foster the growth of their business.
@@ -32,23 +35,28 @@ In addition to the platforms mentioned earlier, there are different channels thr
 •Power BI Service
 
 ## Final Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiZjNhMDQyOTUtZjEwYi00ODdkLTgzNWItOTJkOWRiZmYxYTdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Title Page
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/e323f9bc-e0c2-47bf-88f9-e0145ef7305d)
 
-<img width="602" alt="page 1" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/e323f9bc-e0c2-47bf-88f9-e0145ef7305d">
+## Finance View
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/07e0d51f-f276-4fe0-ba17-15db6f61e434)
 
-<img width="566" alt="Finance Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/07e0d51f-f276-4fe0-ba17-15db6f61e434">
+## Sales View
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/9cea69ee-a6d4-40d2-aa8b-0de90cb03851)
 
-<img width="538" alt="Sales Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/9cea69ee-a6d4-40d2-aa8b-0de90cb03851">
+## Marketing View
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/20a3ffc5-583b-4985-9a1f-51585a84d211)
 
-<img width="497" alt="Marketing Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/20a3ffc5-583b-4985-9a1f-51585a84d211">
+## Supply Chain View
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/114e3e7a-5ab4-4945-8122-e0234ffa07df)
 
-<img width="565" alt="Screenshot 2024-02-16 192310" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/114e3e7a-5ab4-4945-8122-e0234ffa07df">
+## Executive View
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/057680eb-7718-41fc-8c8e-f495d0658e74)
 
-<img width="588" alt="Executive Views" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/057680eb-7718-41fc-8c8e-f495d0658e74">
+## Snowflake Schema
+![image](https://github.com/rohitnegianalytics/Business-360-/assets/161801611/5c383098-7687-4b3d-82ea-0c41c045d044)
 
-![<img width="432" alt="Data model" src="https://github.com/rohitnegianalytics/Business-360-/assets/161801611/5c383098-7687-4b3d-82ea-0c41c045d044">
 
-![Screenshot 2023-05-23 180043](https://github.com/NishantThakurr/Business-insights-360/assets/102639991/425871c5-41e5-4afb-87c3-aee2cabec001)
 
 
 
